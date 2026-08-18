@@ -274,6 +274,3 @@ These are only planning estimates. Check the providers' current pricing, quotas,
 └── README.md            # setup and operating documentation
 ```
 
-## License
-
-No license is currently specified for this repository. Add a license file before distributing the workflow publicly.
